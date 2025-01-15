@@ -68,3 +68,13 @@ To run the analysis, execute the Python script provided in the repository. The s
 ## Conclusion
 
 This analysis provides insights into the distribution of Pokemon types, stats, and their relationships. The visualizations and statistical evaluations offer a comprehensive overview of the Pokemon dataset, revealing interesting patterns and potential areas for further investigation.
+
+## Images
+![image](https://github.com/user-attachments/assets/3a2f1f34-6c12-4f28-b0f7-2fa1237243af)
+![image](https://github.com/user-attachments/assets/05ea7db6-9cf8-4284-8b3e-8b3cf68082b6)
+![image](https://github.com/user-attachments/assets/61c0f3a9-95d5-4b69-a326-b46ad01c2bfd)
+![image](https://github.com/user-attachments/assets/4c72e909-e5b9-4765-9c20-b9d865b7382e)
+
+
+
+
