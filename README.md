@@ -1,11 +1,3 @@
-## Examples
-![image](https://github.com/user-attachments/assets/3a2f1f34-6c12-4f28-b0f7-2fa1237243af)
-![image](https://github.com/user-attachments/assets/05ea7db6-9cf8-4284-8b3e-8b3cf68082b6)
-![image](https://github.com/user-attachments/assets/61c0f3a9-95d5-4b69-a326-b46ad01c2bfd)
-![image](https://github.com/user-attachments/assets/4c72e909-e5b9-4765-9c20-b9d865b7382e)
-
-
-
 # Pokemon Data Analysis
 
 This project analyzes a dataset of Pokemon, exploring various attributes and statistics. The analysis includes visualizations and statistical evaluations to uncover patterns and insights within the Pokemon data.
@@ -20,6 +12,12 @@ The dataset used in this analysis is `pokedex_(Update_05.20).csv`, which contain
 -   **Handling Missing Values**: Checked for missing values and found some, will be dealt with in future iterations.
 
 ## Exploratory Data Analysis (EDA)
+## Examples
+![image](https://github.com/user-attachments/assets/3a2f1f34-6c12-4f28-b0f7-2fa1237243af)
+![image](https://github.com/user-attachments/assets/05ea7db6-9cf8-4284-8b3e-8b3cf68082b6)
+![image](https://github.com/user-attachments/assets/61c0f3a9-95d5-4b69-a326-b46ad01c2bfd)
+![image](https://github.com/user-attachments/assets/4c72e909-e5b9-4765-9c20-b9d865b7382e)
+
 
 ### Distribution of Pokemon Types
 
